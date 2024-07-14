@@ -27,3 +27,5 @@ There are different projects in this folder (sorted from the easiest to the hard
     - Think about everything as processes
     - GenServer, Agents, Supervisor
 9. Todo-Application w/ support for tags and reminder
+10. Multiplayer-Game
+    - https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly
