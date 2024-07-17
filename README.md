@@ -29,3 +29,16 @@ There are different projects in this folder (sorted from the easiest to the hard
 9. Todo-Application w/ support for tags and reminder
 10. Multiplayer-Game
     - https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly
+
+
+## Getting Started
+
+The recommended way of starting is using livebooks in a dev container or a separate docker container.
+
+### Dev Container
+
+Start using the [`devcontainer.json`](.devcontainer/livebook/devcontainer.json) and enter the following command in the terminal:
+
+```bash
+livebook start
+```
