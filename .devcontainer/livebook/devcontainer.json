@@ -8,6 +8,10 @@
             ]
         }
     },
+    "runArgs": [
+        "--env-file",
+        ".devcontainer/livebook/.env"
+    ],
     "remoteEnv": {
         "PATH": "/app/bin/:${containerEnv:PATH}"
     },
