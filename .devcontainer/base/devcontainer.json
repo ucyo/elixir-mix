@@ -1,5 +1,5 @@
 {
-    "name": "Elixir",
+    "name": "Elixir (base)",
     "image": "elixir:1.17.1-slim",
     "customizations": {
         "vscode": {
