@@ -1,0 +1,17 @@
+# Introduction
+
+## Getting Started
+
+This is a collection of livebooks for learning `Elixir` language and basic principles of actor-based programming coupled with functional elements. The main strengths, weaknesses, opportunities and threats.
+
+| Project         | Alternative |
+| --------------- | ----------- |
+| Mini-Mentimeter | Mentimeter  |
+| Mini-Redis      | Redis       |
+| Mini-Celery     | Celery      |
+| Mini-Kafka      | Kafka       |
+| Mini-Crows      | Crows       |
+| Mini-Slack      | Slack       |
+| Mini-Wunderlist | Wunderlist  |
+
+## Introduction
